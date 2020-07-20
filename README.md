@@ -9,4 +9,4 @@ script to quickly generate C headers for Cobalt Strike Beacon Object Files. One 
 
 
 
-![](https://github.com/Cod3rman/generate-C-headers-for-Cobalt-Strike/images/4.jpg)
+![](https://github.com/Cod3rman/generate-C-headers-for-Cobalt-Strike/images/4.png)
